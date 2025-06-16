@@ -6,7 +6,7 @@ main:
     url: /faq/
 
   - title: "Manuais de Uso"
-    url: /usage/
+    url: /manuais/
 
   - title: "Versões"
     url: /versoes/
@@ -19,14 +19,20 @@ docs:
 
   - title: "Manuais"
     children:
-      - title: "Manual Básico"
-        url: /usage/manual-basico/
-      - title: "Avançado"
-        url: /usage/manual-avancado/
+      - title: "Como Começar?"
+        url: /manuais/como-comecar/
+      - title: "Instalando a API de Dados"
+        url: /manuais/instalacao/
 
   - title: "Versões"
     children:
       - title: "Última Versão"
-        url: /versoes/
-      - title: "Histórico v1.0"
-        url: /versoes/v1.0/
+        url: /versoes/latest/
+    children:
+      - title: "Histórico de Versões"
+        url: /versoes/historico/
+
+  - title: "Changelog"
+    children:
+      - title: "Úlimas Alterações"
+        url: /versoes/changelog/

@@ -3,9 +3,8 @@ title: Ristore Mobile
 layout: splash
 permalink: /
 header:
-  overlay_color: "#000"
+  overlay_color: "#f35c2c"
   overlay_filter: "0.4"
-  overlay_image: /assets/images/logo.png
   actions:
     - label: "🔍 Acessar Manuais de Uso"
       url: /manuais/
@@ -18,7 +17,7 @@ excerpt: "Documentação oficial do aplicativo Ristore Mobile — manuais, pergu
 
 <section class="feature__wrapper">
 
-<p> Aqui você encontra tudo o que precisa para instalar, utilizar e manter o **Ristore Mobile**, nosso aplicativo para gerir o consumo em bares e restaurantes. </p>
+<p> Aqui você encontra tudo o que precisa para instalar, utilizar e manter o **Ristore Mobile**. </p>
 
 <div class="feature__item">
   <h3>📄 Manuais de Uso</h3>
