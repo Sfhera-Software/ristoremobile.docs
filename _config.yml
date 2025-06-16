@@ -3,7 +3,7 @@ description: Documentação oficial do aplicativo RistoreMobile
 remote_theme: "mmistakes/minimal-mistakes"
 
 # URL base do site
-baseurl: "/ristoremobile.docs" # Ajuste conforme a URL do GitHub Pages
+baseurl: "/ristoremobile.docs"
 
 # Logo no topo
 logo: "/assets/images/logo.png"
