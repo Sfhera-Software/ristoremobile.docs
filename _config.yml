@@ -1,0 +1,18 @@
+title: RistoreMobile Docs
+theme: just-the-docs
+
+# URL base do site, se for publicado em user.github.io use apenas /
+baseurl: "" # ou "/ristoremobile.docs" se for subpasta
+
+# Logo opcional
+logo: "/assets/images/logo.png"
+
+# Favicon opcional
+# favicon_ico: "/assets/images/favicon.ico"
+
+# Configurações adicionais
+color_scheme: light
+
+# Navegação por hierarquia de pastas
+aux_links:
+  GitHub Repo: https://github.com/sfhera-software/ristoremobile.docs
