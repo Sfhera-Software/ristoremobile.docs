@@ -1,0 +1,32 @@
+main:
+  - title: "Início"
+    url: /
+
+  - title: "FAQ"
+    url: /faq/
+
+  - title: "Manuais de Uso"
+    url: /usage/
+
+  - title: "Versões"
+    url: /versoes/
+
+docs:
+  - title: "FAQ"
+    children:
+      - title: "Perguntas Frequentes"
+        url: /faq/
+
+  - title: "Manuais"
+    children:
+      - title: "Manual Básico"
+        url: /usage/manual-basico/
+      - title: "Avançado"
+        url: /usage/manual-avancado/
+
+  - title: "Versões"
+    children:
+      - title: "Última Versão"
+        url: /versoes/
+      - title: "Histórico v1.0"
+        url: /versoes/v1.0/

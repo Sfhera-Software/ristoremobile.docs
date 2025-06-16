@@ -1,18 +1,41 @@
-title: RistoreMobile Docs
-theme: "jekyll-theme-minimal"
+title: Guias RistoreMobile
+description: Documentação oficial do aplicativo RistoreMobile
+remote_theme: "mmistakes/minimal-mistakes"
 
-# URL base do site, se for publicado em user.github.io use apenas /
-baseurl: "/ristoremobile.docs" # ou "/ristoremobile.docs" se for subpasta
+# URL base do site
+baseurl: "/ristoremobile.docs" # Ajuste conforme a URL do GitHub Pages
 
-# Logo opcional
+# Logo no topo
 logo: "/assets/images/logo.png"
 
-# Favicon opcional
-# favicon_ico: "/assets/images/favicon.ico"
+markdown: kramdown
 
-# Configurações adicionais
+# Plugins obrigatórios para compatibilidade com o tema
+plugins:
+  - jekyll-include-cache
+
+# Layouts e navegação
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: single
+      author_profile: false
+      sidebar:
+        nav: "docs"
+
+# Esquema de cores (light, dark, solarized, etc.)
 color_scheme: light
 
-# Navegação por hierarquia de pastas
+# Links no topo
 aux_links:
   GitHub Repo: https://github.com/sfhera-software/ristoremobile.docs
+  Site: https://ristore.com.br
+
+# Excluir arquivos da build do site
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
