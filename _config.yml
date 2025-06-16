@@ -1,5 +1,5 @@
 title: RistoreMobile Docs
-remote_theme: "jekyll/minima@1e8a445"
+theme: "jekyll-theme-minimal"
 
 # URL base do site, se for publicado em user.github.io use apenas /
 baseurl: "" # ou "/ristoremobile.docs" se for subpasta
