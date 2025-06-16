@@ -31,7 +31,6 @@ color_scheme: light
 # Links no topo
 aux_links:
   GitHub Repo: https://github.com/sfhera-software/ristoremobile.docs
-  Site: https://ristore.com.br
 
 # Excluir arquivos da build do site
 exclude:

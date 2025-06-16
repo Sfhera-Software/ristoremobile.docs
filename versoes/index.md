@@ -6,6 +6,6 @@ sidebar:
   nav: "docs"
 ---
 
-# Perguntas Frequentes
+## Versões Disponíveis
 
 ...
