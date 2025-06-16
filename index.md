@@ -20,7 +20,6 @@ excerpt: "Documentação oficial do aplicativo Ristore Mobile — manuais, pergu
 
 Aqui você encontra tudo o que precisa para instalar, utilizar e manter o **Ristore Mobile**, nosso aplicativo para gerir o consumo em bares e restaurantes.
 
----
 
 <div class="feature__item">
   <h3>📄 Manuais de Uso</h3>
