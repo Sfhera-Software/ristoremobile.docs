@@ -2,7 +2,7 @@ title: RistoreMobile Docs
 theme: "jekyll-theme-minimal"
 
 # URL base do site, se for publicado em user.github.io use apenas /
-baseurl: "" # ou "/ristoremobile.docs" se for subpasta
+baseurl: "/ristoremobile.docs" # ou "/ristoremobile.docs" se for subpasta
 
 # Logo opcional
 logo: "/assets/images/logo.png"

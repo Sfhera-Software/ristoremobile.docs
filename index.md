@@ -14,10 +14,10 @@ Baixe o APK da versão mais recente diretamente pelo link abaixo:
 
 ## 📚 Seções da Documentação
 
-- [Instalação](./usage/instalacao.md) – Como instalar o app em dispositivos Android
-- [Configuração Inicial](./usage/configuracao.md) – Passos para configurar o ambiente
-- [Changelog](./changelog.md) – Histórico de mudanças por versão
-- [FAQ](./FAQ/faq.md) – Perguntas Frequentes
+- [Instalação](/ristoremobile.docs/usage/instalacao.md) – Como instalar o app em dispositivos Android
+- [Configuração Inicial](/ristoremobile.docs/usage/configuracao.md) – Passos para configurar o ambiente
+- [Changelog](/ristoremobile.docs/changelog.md) – Histórico de mudanças por versão
+- [FAQ](/ristoremobile.docs/FAQ/faq.md) – Perguntas Frequentes
 
 ---
 
