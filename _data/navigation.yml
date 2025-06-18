@@ -9,7 +9,7 @@ main:
     url: /manuais/
 
   - title: "Versões"
-    url: /versoes/
+    url: /versoes/historico/
 
 mainNav:
   - title: "FAQ"
@@ -41,7 +41,7 @@ docs:
     children:
       - title: "Configuração Inicial"
         url: /manuais/configuracao-inicial/
-      - title: "Funcionalidades Principais"
-        url: /manuais/funcionalidades-principais/
+      - title: "Principais-Funcionalidades"
+        url: /manuais/principais-funcionalidades/
       - title: "Dicas e Truques"
         url: /manuais/dicas-e-truques/

@@ -8,7 +8,11 @@ sidebar:
 
 {% include apk_base_url.md %}
 
-## v1.0.0 - 18/06/2025
+Aqui você vai encontrar todas as distribuições do aplicativo já disponibilizadas até agora.
+
+---
+
+### v1.0.0 - 18/06/2025
 
 [Ristore Mobile v1.0.0]({{ apk_base }}/v1.0/ristoremobile-v1.0.0.apk)
 
