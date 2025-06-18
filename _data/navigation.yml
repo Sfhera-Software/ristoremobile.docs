@@ -1,17 +1,4 @@
 main:
-  - title: "Início"
-    url: /
-
-  - title: "FAQ"
-    url: /faq/
-
-  - title: "Manuais de Uso"
-    url: /manuais/
-
-  - title: "Versões"
-    url: /versoes/
-
-docs:
   - title: "FAQ"
     children:
       - title: "Perguntas Frequentes"
@@ -28,7 +15,6 @@ docs:
     children:
       - title: "Última Versão"
         url: /versoes/latest/
-    children:
       - title: "Histórico de Versões"
         url: /versoes/historico/
 
@@ -36,3 +22,13 @@ docs:
     children:
       - title: "Log de Alterações"
         url: /versoes/changelog/
+
+docs:
+  - title: "Início Rápido"
+    children:
+      - title: "Configuração Inicial"
+        url: /manuais/configuracao-inicial/
+      - title: "Funcionalidades Principais"
+        url: /manuais/funcionalidades-principais/
+      - title: "Dicas e Truques"
+        url: /manuais/dicas-e-truques/

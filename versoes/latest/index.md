@@ -3,7 +3,7 @@ title: Versão Mais Nova Disponível
 layout: single
 permalink: /versoes/latest/
 sidebar:
-  nav: "docs"
+  nav: "main"
 ---
 
 ## v1.0.0 🆕

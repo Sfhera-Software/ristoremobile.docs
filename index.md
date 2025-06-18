@@ -4,20 +4,20 @@ layout: splash
 permalink: /
 header:
   overlay_color: "#f35c2c"
-  overlay_filter: "0.4"
+  overlay_filter: "0.9"
   actions:
-    - label: "🔍 Acessar Manuais de Uso"
+    - label: "📄 Acessar Manuais"
       url: /manuais/
     - label: "📦 Última Versão"
-      url: /versoes/
-    - label: "❓ FAQ"
+      url: /versoes/latest/
+    - label: "❓ Perguntas Frequentes"
       url: /faq/
 excerpt: "Documentação oficial do aplicativo Ristore Mobile — manuais, perguntas frequentes e histórico de versões."
 ---
 
 <section class="feature__wrapper">
 
-<p> Aqui você encontra tudo o que precisa para instalar, utilizar e manter o **Ristore Mobile**. </p>
+Aqui você encontra tudo o que precisa para instalar, utilizar e manter o **Ristore Mobile**.
 
 <div class="feature__item">
   <h3>📄 Manuais de Uso</h3>
@@ -34,7 +34,7 @@ excerpt: "Documentação oficial do aplicativo Ristore Mobile — manuais, pergu
 <div class="feature__item">
   <h3>📥 Versões e Atualizações</h3>
   <p>Notas de versão, changelogs e links de download do APK.</p>
-  <a href="/ristoremobile.docs/versoes/" class="btn">Ver Histórico de Versões</a>
+  <a href="/ristoremobile.docs/versoes/historico/" class="btn">Ver Histórico de Versões</a>
 </div>
 
 </section>

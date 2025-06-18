@@ -3,7 +3,7 @@ title: Histórico de Versões
 layout: single
 permalink: /versoes/historico/
 sidebar:
-  nav: "docs"
+  nav: "main"
 ---
 
 ## v1.0.0 - 18/06/2025
