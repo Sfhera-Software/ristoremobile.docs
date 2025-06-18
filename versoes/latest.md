@@ -8,8 +8,8 @@ sidebar:
 
 {% include apk_base_url.md %}
 
-## [v1.0.0]({{ apk_base }}/latest/ristoremobile-latest.apk) 🆕
+## [v1.0.0 ⤵️]({{ apk_base }}/latest/ristoremobile-latest.apk) 🆕
 
-Clique [aqui]({{ apk_base }}/latest/ristoremobile-latest.apk) para baixar a última versão disponível do Ristore Mobile.
+Clique [aqui ⤵️]({{ apk_base }}/latest/ristoremobile-latest.apk) para baixar a última versão disponível do Ristore Mobile.
 
 ---

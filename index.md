@@ -17,8 +17,6 @@ excerpt: "Documentação oficial do aplicativo Ristore Mobile — manuais, pergu
 
 <section class="feature__wrapper">
 
-<p>Aqui você encontra tudo o que precisa para instalar, utilizar e manter o <span>Ristore Mobile</span>.</p>
-
 <div class="feature__item">
   <h3>📄 Manuais de Uso</h3>
   <p>Guias completos sobre recursos, navegação e boas práticas.</p>

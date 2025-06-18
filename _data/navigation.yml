@@ -45,3 +45,7 @@ docs:
         url: /manuais/principais-funcionalidades/
       - title: "Dicas e Truques"
         url: /manuais/dicas-e-truques/
+
+versions:
+  - title: "v1.0.0"
+    url: /versoes/historico/#v100---18062025
