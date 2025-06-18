@@ -21,8 +21,8 @@ docs:
     children:
       - title: "Como Começar?"
         url: /manuais/como-comecar/
-      - title: "Instalando a API de Dados"
-        url: /manuais/instalacao/
+      - title: "Documentação Completa"
+        url: /manuais/
 
   - title: "Versões"
     children:
@@ -34,5 +34,5 @@ docs:
 
   - title: "Changelog"
     children:
-      - title: "Úlimas Alterações"
+      - title: "Log de Alterações"
         url: /versoes/changelog/

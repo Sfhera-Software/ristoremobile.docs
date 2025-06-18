@@ -6,6 +6,10 @@ sidebar:
   nav: "docs"
 ---
 
-# Versões Disponíveis para Download
+## v1.0.0 - 18/06/2025
+
+[Ristore Mobile v1.0.0](/assets/versoes/v1.0/ristoremobile-v1.0.0.apk)
+
+Versão inicial do aplicativo.
 
 ...
