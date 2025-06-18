@@ -4,7 +4,7 @@ layout: splash
 permalink: /
 header:
   overlay_color: "#f35c2c"
-  overlay_filter: "0.9"
+  overlay_filter: "0.2"
   actions:
     - label: "📄 Acessar Manuais"
       url: /manuais/

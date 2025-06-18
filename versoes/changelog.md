@@ -3,7 +3,7 @@ title: Changelog
 layout: single
 permalink: /versoes/changelog/
 sidebar:
-  nav: "main"
+  nav: "mainNav"
 ---
 
 ## V1.0.0 - 18/06/2025

@@ -3,7 +3,7 @@ title: Perguntas Frequentes
 layout: single
 permalink: /faq/
 sidebar:
-  nav: "main"
+  nav: "mainNav"
 ---
 
 ## Como posso ter acesso ao aplicativo Ristore Mobile?
