@@ -6,6 +6,15 @@ sidebar:
   nav: "docs"
 ---
 
+<style>
+  .feature__wrapper .feature__item {
+    width: 100%;
+    border: 1px solid #ddd;
+    padding: 1.0rem;
+    margin: 0.2rem;
+  }
+</style>
+
 Aprenda tudo que precisar! Veja nossos guias completos de instalação, como utilizar nosso aplicativo e solucionar problemas.
 
 <a href="/ristoremobile.docs/manuais/quickstart/" class="btn btn--success">Início Rápido</a>
@@ -14,7 +23,7 @@ Aprenda tudo que precisar! Veja nossos guias completos de instalação, como uti
 
 <h3>Comece por aqui</h3>
 
-<div class="feature__item">
+<div class="feature__item" style="width: 100%;">
   <h4>Pré-requisitos</h4>
   <p>Entenda a lógica de instalação, os pré-requisitos e como começar.</p>
   <a href="/ristoremobile.docs/manuais/como-comecar/" class="btn"></a>
