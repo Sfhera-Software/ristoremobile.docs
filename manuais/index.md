@@ -24,9 +24,9 @@ Aprenda tudo que precisar! Veja nossos guias completos de instalação, como uti
 <h3>Comece por aqui</h3>
 
 <div class="feature__item" style="width: 100%;">
-  <h4>Pré-requisitos</h4>
-  <p>Entenda a lógica de instalação, os pré-requisitos e como começar.</p>
-  <a href="/ristoremobile.docs/manuais/como-comecar/" class="btn"></a>
+  <h4>Início Rápido</h4>
+  <p>Entenda a lógica de instalação, os pré-requisitos e como começar rapidamente.</p>
+  <a href="/ristoremobile.docs/manuais/quickstart/" class="btn"></a>
 </div>
 
 <div class="feature__item">
