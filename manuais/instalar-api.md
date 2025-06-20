@@ -27,4 +27,4 @@ Antes de prosseguir com a instalação, é importante já ter feito a instalaç�
 
 Execute como administrador o arquivo _sfherawebapi.exe_ e clique em avançar até o assistente concluir a extração de todos os arquivos.
 
-<img src="/ristoremobile.docs/assets/images/manuais/instalar-api/2-rodar-o-instalador.gif" style="display:block; margin:auto;">
+<img src="/ristoremobile.docs/assets/images/manuais/instalar-api/2-rodar-o-instalador.gif" style="display:block; margin:auto; width=450">
