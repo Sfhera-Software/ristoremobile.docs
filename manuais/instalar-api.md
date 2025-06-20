@@ -11,7 +11,7 @@ sidebar:
 - Recurso Gerenciador de Serviços de Informações da Internet(IIS) ativados no sistema operacional.
 - Microsoft Hosting Bundle v8.x instalado.
 
-> ℹ️ O Microsoft Hosting Bundle pode ser baixado [aqui](/ristoremobile.docs/assets/dotnet-hosting-8.0.17-win.exe). Também possuímos material de ajuda para [ativar o IIS no Windows](/ristoremobile.docs/manuais/ativar-iis/).
+> ℹ️ O Microsoft Hosting Bundle pode ser baixado [aqui](https://builds.dotnet.microsoft.com/dotnet/aspnetcore/Runtime/8.0.17/dotnet-hosting-8.0.17-win.exe). Também possuímos material de ajuda para [ativar o IIS no Windows](/ristoremobile.docs/manuais/ativar-iis/).
 
 Faça o download da API clicando __<a href="https://sfhera.com.br/sistemas/sfherawebapi.exe">aqui</a>__.
 
